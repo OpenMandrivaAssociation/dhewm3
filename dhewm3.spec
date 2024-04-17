@@ -6,7 +6,6 @@ Group:          Games/FPS
 License:        GPL-3.0-only
 URL:            https://github.com/dhewm/dhewm3
 Source0:        https://github.com/dhewm/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
-Patch0:         https://github.com/dhewm/dhewm3/commit/5844af62cee9d17404d6e6c8d425778a86e52416.patch
 
 BuildRequires:  cmake
 BuildRequires:  pkgconfig
