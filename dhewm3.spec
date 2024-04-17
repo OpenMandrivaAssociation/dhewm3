@@ -1,5 +1,5 @@
 Name:           dhewm3
-Version:        1.5.2
+Version:        1.5.3
 Release:        1
 Summary:        DOOM 3 source port
 Group:          Games/FPS
