@@ -8,6 +8,7 @@ URL:            https://github.com/dhewm/dhewm3
 Source0:        https://github.com/dhewm/%{name}/archive/%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires:  cmake
+BuildRequires:  make
 BuildRequires:  pkgconfig
 BuildRequires:  cmake(sdl2)
 BuildRequires:  pkgconfig(libcurl)
